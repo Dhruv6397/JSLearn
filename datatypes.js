@@ -16,7 +16,7 @@ let isLoggedIn = true
 //boolean :
 //null : Its data type though, but its standalone value, 
 //undefined :
-//NaN :
+//NaN : not a number
 //symbol :
 //Object :
 
