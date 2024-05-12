@@ -42,5 +42,5 @@ const {key1: ky1} = demoObject
 console.log(ky1)
 
 
-
+//further
 
