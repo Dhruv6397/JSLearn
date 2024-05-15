@@ -43,13 +43,3 @@ console.log(ky1)
 
 
 //further
-
-const demoObject = {
-    key1:"first",
-    key2:"second"
-}
-
-const {key1: ky1} = demoObject
-console.log(ky1)
-
-
